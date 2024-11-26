@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrunaCerqueira
-- 👀 I’m interested in coding and Zelda LOL
+- 👀 I’m interested in unity Pokemon and Zelda
 - 🌱 I’m currently learning C# HTML and CSS
 - 💞️ I’m looking to collaborate on Game Dev and Front-end challenges!
 - 📫 How to reach me brunacacerqueira@gmail.com
