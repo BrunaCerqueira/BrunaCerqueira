@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrunaCerqueira
-- 👀 I’m interested in unity Pokemon and Zelda
-- 🌱 I’m currently learning C# HTML and CSS
+- 👀 I’m interested in Unity and Godot
+- 🌱 I’m currently learning C# and GDScript 
 - 💞️ I’m looking to collaborate on Game Dev and Front-end challenges!
 - 📫 How to reach me brunacacerqueira@gmail.com
 
